@@ -32,32 +32,4 @@
     "email": "c.almeida@duoc.cl",
     "edad": "41",
     "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
-  },
-  {
-    "nombre": "Cristina",
-    "apeliddo": "Urrutia",
-    "email": "c.urruitia@duoc.cl",
-    "edad": "39",
-    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
-  },
-  {
-    "nombre": "Camila",
-    "apeliddo": "Olivos",
-    "email": "c.olivos@duoc.cl",
-    "edad": "54",
-    "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
-  },
-  {
-    "nombre": "Ricardo",
-    "apeliddo": "Flores",
-    "email": "r.flores@duoc.cl",
-    "edad": "32",
-    "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
-  },
-  {
-    "nombre": "Mercedes",
-    "apeliddo": "Parra",
-    "email": "m.parra@duoc.cl",
-    "edad": "41",
-    "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
   }]
