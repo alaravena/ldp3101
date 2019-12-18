@@ -1,0 +1,72 @@
+[{
+  "nombre": "Juan",
+  "apeliddo": "Perez",
+  "email": "j.perez@duoc.cl",
+  "edad": "51",
+  "genero": "masculino",
+  "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+  },
+  {
+    "nombre": "Andrea",
+    "apeliddo": "Gonzales",
+    "email": "a.gonzales@duoc.cl",
+    "edad": "38",
+    "genero": "femenino",
+    "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+  },
+  {
+    "nombre": "Nicolas",
+    "apeliddo": "Tapia",
+    "email": "n.tapia@duoc.cl",
+    "edad": "27",
+    "genero": "masculino",
+    "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+  },
+  {
+    "nombre": "Francisco",
+    "apeliddo": "Rodríguez",
+    "email": "f.rodriguez@duoc.cl",
+    "edad": "47",
+    "genero": "masculino",
+    "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+  },
+  {
+    "nombre": "Carmen",
+    "apeliddo": "Almeida",
+    "email": "c.almeida@duoc.cl",
+    "edad": "41",
+    "genero": "femenino",
+    "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+  },
+  {
+    "nombre": "Cristina",
+    "apeliddo": "Urrutia",
+    "email": "c.urruitia@duoc.cl",
+    "edad": "39",
+    "genero": "femenino",
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "nombre": "Camila",
+    "apeliddo": "Olivos",
+    "email": "c.olivos@duoc.cl",
+    "edad": "54",
+    "genero": "femenino",
+    "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+  },
+  {
+    "nombre": "Ricardo",
+    "apeliddo": "Flores",
+    "email": "r.flores@duoc.cl",
+    "edad": "32",
+    "genero": "masculino",
+    "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+  },
+  {
+    "nombre": "Mercedes",
+    "apeliddo": "Parra",
+    "email": "m.parra@duoc.cl",
+    "edad": "41",
+    "genero": "femenino",
+    "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+  }]
