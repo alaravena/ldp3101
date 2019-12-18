@@ -2,63 +2,63 @@
     "usuarios":[
         {
             "nombre": "Juan",
-            "apeliddo": "Perez",
+            "apellido": "Perez",
             "email": "j.perez@duoc.cl",
             "edad": "51",
             "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
         },
         {
             "nombre": "Andrea",
-            "apeliddo": "Gonzales",
+            "apellido": "Gonzales",
             "email": "a.gonzales@duoc.cl",
             "edad": "38",
             "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
         },
         {
             "nombre": "Nicolas",
-            "apeliddo": "Tapia",
+            "apellido": "Tapia",
             "email": "n.tapia@duoc.cl",
             "edad": "27",
             "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
         },
         {
             "nombre": "Francisco",
-            "apeliddo": "Rodríguez",
+            "apellido": "Rodríguez",
             "email": "f.rodriguez@duoc.cl",
             "edad": "47",
             "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
         },
         {
             "nombre": "Carmen",
-            "apeliddo": "Almeida",
+            "apellido": "Almeida",
             "email": "c.almeida@duoc.cl",
             "edad": "41",
             "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
         },
         {
             "nombre": "Cristina",
-            "apeliddo": "Urrutia",
+            "apellido": "Urrutia",
             "email": "c.urruitia@duoc.cl",
             "edad": "39",
             "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
         },
         {
             "nombre": "Camila",
-            "apeliddo": "Olivos",
+            "apellido": "Olivos",
             "email": "c.olivos@duoc.cl",
             "edad": "54",
             "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
         },
         {
             "nombre": "Ricardo",
-            "apeliddo": "Flores",
+            "apellido": "Flores",
             "email": "r.flores@duoc.cl",
             "edad": "32",
             "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
         },
         {
             "nombre": "Mercedes",
-            "apeliddo": "Parra",
+            "apellido": "Parra",
             "email": "m.parra@duoc.cl",
             "edad": "41",
             "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
